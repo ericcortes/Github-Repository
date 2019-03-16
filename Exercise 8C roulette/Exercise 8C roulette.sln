@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 8C roulette", "Exercise 8C roulette\Exercise 8C roulette.csproj", "{51AD6697-B594-43E3-B8B9-11FDCD4B0ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AD6697-B594-43E3-B8B9-11FDCD4B0ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AD6697-B594-43E3-B8B9-11FDCD4B0ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AD6697-B594-43E3-B8B9-11FDCD4B0ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AD6697-B594-43E3-B8B9-11FDCD4B0ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF49274-3511-4371-A2EB-5EB3355FD67F}
+	EndGlobalSection
+EndGlobal

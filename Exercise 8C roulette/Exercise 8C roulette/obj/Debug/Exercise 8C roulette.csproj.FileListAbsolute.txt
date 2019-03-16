@@ -1,0 +1,7 @@
+C:\Users\corte\source\repos\Exercise 8C roulette\Exercise 8C roulette\bin\Debug\Exercise 8C roulette.exe.config
+C:\Users\corte\source\repos\Exercise 8C roulette\Exercise 8C roulette\bin\Debug\Exercise 8C roulette.exe
+C:\Users\corte\source\repos\Exercise 8C roulette\Exercise 8C roulette\bin\Debug\Exercise 8C roulette.pdb
+C:\Users\corte\source\repos\Exercise 8C roulette\Exercise 8C roulette\obj\Debug\Exercise 8C roulette.csproj.CoreCompileInputs.cache
+C:\Users\corte\source\repos\Exercise 8C roulette\Exercise 8C roulette\obj\Debug\Exercise 8C roulette.exe
+C:\Users\corte\source\repos\Exercise 8C roulette\Exercise 8C roulette\obj\Debug\Exercise 8C roulette.pdb
+C:\Users\corte\source\repos\Exercise 8C roulette\Exercise 8C roulette\obj\Debug\Exercise 8C roulette.csprojAssemblyReference.cache
